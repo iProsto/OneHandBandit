@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">One Hand Bandit</string>
+
+    <string name="developer_info">Created by Maksym Arkhipov. Group PZS-2044, CHDTU, Cherkasy</string>
+    <string name="year">2020-2021</string>
+    <string name="win_msg">Win!</string>
+    <string name="lose_msg">Lose!</string>
+</resources>
